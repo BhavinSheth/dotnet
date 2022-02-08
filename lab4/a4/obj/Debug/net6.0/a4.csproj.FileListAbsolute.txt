@@ -1,0 +1,15 @@
+D:\dotnet\lab4\a4\obj\Debug\net6.0\a4.csproj.AssemblyReference.cache
+D:\dotnet\lab4\a4\obj\Debug\net6.0\a4.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\lab4\a4\obj\Debug\net6.0\a4.AssemblyInfoInputs.cache
+D:\dotnet\lab4\a4\obj\Debug\net6.0\a4.AssemblyInfo.cs
+D:\dotnet\lab4\a4\obj\Debug\net6.0\a4.csproj.CoreCompileInputs.cache
+D:\dotnet\lab4\a4\bin\Debug\net6.0\a4.exe
+D:\dotnet\lab4\a4\bin\Debug\net6.0\a4.deps.json
+D:\dotnet\lab4\a4\bin\Debug\net6.0\a4.runtimeconfig.json
+D:\dotnet\lab4\a4\bin\Debug\net6.0\a4.dll
+D:\dotnet\lab4\a4\bin\Debug\net6.0\ref\a4.dll
+D:\dotnet\lab4\a4\bin\Debug\net6.0\a4.pdb
+D:\dotnet\lab4\a4\obj\Debug\net6.0\a4.dll
+D:\dotnet\lab4\a4\obj\Debug\net6.0\ref\a4.dll
+D:\dotnet\lab4\a4\obj\Debug\net6.0\a4.pdb
+D:\dotnet\lab4\a4\obj\Debug\net6.0\a4.genruntimeconfig.cache

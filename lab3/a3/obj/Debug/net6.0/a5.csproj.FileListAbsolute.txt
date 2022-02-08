@@ -1,0 +1,15 @@
+D:\dotnet\a3\bin\Debug\net6.0\a5.exe
+D:\dotnet\a3\bin\Debug\net6.0\a5.deps.json
+D:\dotnet\a3\bin\Debug\net6.0\a5.runtimeconfig.json
+D:\dotnet\a3\bin\Debug\net6.0\a5.dll
+D:\dotnet\a3\bin\Debug\net6.0\ref\a5.dll
+D:\dotnet\a3\bin\Debug\net6.0\a5.pdb
+D:\dotnet\a3\obj\Debug\net6.0\a5.csproj.AssemblyReference.cache
+D:\dotnet\a3\obj\Debug\net6.0\a5.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\a3\obj\Debug\net6.0\a5.AssemblyInfoInputs.cache
+D:\dotnet\a3\obj\Debug\net6.0\a5.AssemblyInfo.cs
+D:\dotnet\a3\obj\Debug\net6.0\a5.csproj.CoreCompileInputs.cache
+D:\dotnet\a3\obj\Debug\net6.0\a5.dll
+D:\dotnet\a3\obj\Debug\net6.0\ref\a5.dll
+D:\dotnet\a3\obj\Debug\net6.0\a5.pdb
+D:\dotnet\a3\obj\Debug\net6.0\a5.genruntimeconfig.cache
