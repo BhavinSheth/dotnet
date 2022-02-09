@@ -1,37 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\praja\\.nuget\\packages\\": {}
+    "C:\\Users\\BHAVIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET WrokSpace\\LAB-1\\Code_1\\Code_1.csproj",
+      "projectUniqueName": "D:\\dotnet\\lab2\\Code_1\\Code_1.csproj",
       "projectName": "Code_1",
-      "projectPath": "D:\\.NET WrokSpace\\LAB-1\\Code_1\\Code_1.csproj",
-      "packagesPath": "C:\\Users\\praja\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET WrokSpace\\LAB-1\\Code_1\\obj\\",
+      "projectPath": "D:\\dotnet\\lab2\\Code_1\\Code_1.csproj",
+      "packagesPath": "C:\\Users\\BHAVIN\\.nuget\\packages\\",
+      "outputPath": "D:\\dotnet\\lab2\\Code_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\praja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\BHAVIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -42,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",

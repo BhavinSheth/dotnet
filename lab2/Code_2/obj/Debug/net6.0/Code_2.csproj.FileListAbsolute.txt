@@ -1,0 +1,15 @@
+D:\dotnet\lab2\Code_2\bin\Debug\net6.0\Code_2.exe
+D:\dotnet\lab2\Code_2\bin\Debug\net6.0\Code_2.deps.json
+D:\dotnet\lab2\Code_2\bin\Debug\net6.0\Code_2.runtimeconfig.json
+D:\dotnet\lab2\Code_2\bin\Debug\net6.0\Code_2.dll
+D:\dotnet\lab2\Code_2\bin\Debug\net6.0\ref\Code_2.dll
+D:\dotnet\lab2\Code_2\bin\Debug\net6.0\Code_2.pdb
+D:\dotnet\lab2\Code_2\obj\Debug\net6.0\Code_2.csproj.AssemblyReference.cache
+D:\dotnet\lab2\Code_2\obj\Debug\net6.0\Code_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\lab2\Code_2\obj\Debug\net6.0\Code_2.AssemblyInfoInputs.cache
+D:\dotnet\lab2\Code_2\obj\Debug\net6.0\Code_2.AssemblyInfo.cs
+D:\dotnet\lab2\Code_2\obj\Debug\net6.0\Code_2.csproj.CoreCompileInputs.cache
+D:\dotnet\lab2\Code_2\obj\Debug\net6.0\Code_2.dll
+D:\dotnet\lab2\Code_2\obj\Debug\net6.0\ref\Code_2.dll
+D:\dotnet\lab2\Code_2\obj\Debug\net6.0\Code_2.pdb
+D:\dotnet\lab2\Code_2\obj\Debug\net6.0\Code_2.genruntimeconfig.cache
