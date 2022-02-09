@@ -13,7 +13,7 @@ namespace lab4
             tempRecord[5] = 60.1F;
             for (int i = 0; i < tempRecord.Length; i++)
             {
-                Console.WriteLine($"element {i} : {tempRecord[i]}");
+                Console.WriteLine($"#element {i} : {tempRecord[i]}");
             }
 
             // example 2
